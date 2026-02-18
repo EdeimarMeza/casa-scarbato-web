@@ -360,7 +360,7 @@ export default function Home() {
             </div>
             <div className="space-y-4">
               <div className="text-4xl">💳</div>
-              <h4 className="font-bold text-sm uppercase tracking-widest">Pagos Flexibles</h4>
+              <h4 className="font-bold text-sm uppercase tracking-widest">Medios de pago</h4>
               <p className="text-stone-500 text-sm">Yape, Plin o Contraentrega.</p>
             </div>
           </div>
