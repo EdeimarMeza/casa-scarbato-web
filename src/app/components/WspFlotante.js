@@ -1,6 +1,9 @@
 "use client";
 
 export default function WspFlotante() {
+  // Al agregar esta línea, el componente no renderizará nada en la pantalla
+  return null; 
+
   return (
     <a 
       href="https://wa.me/51916278938" 
